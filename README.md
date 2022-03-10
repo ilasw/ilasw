@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luca Pagliaro</h1>
 <h3 align="center">A passionate front-end developer from Catania, Italia</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.thewavestudio.it/](https://www.thewavestudio.it/)
-
 - 📄 Know about my experiences [https://lucapagliaro.it](https://lucapagliaro.it)
 
 ### Blogs posts
