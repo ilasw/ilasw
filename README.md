@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=angular,vue,nuxtjs,react,redux,nextjs,remix" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress" />
 
-Interested or learning:
+<h3 align="left">Interested or learning:</h3>
 <img src="https://skillicons.dev/icons?i=go,rust" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilasw&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ilasw" /></p>
