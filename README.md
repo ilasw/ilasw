@@ -10,10 +10,13 @@
 <a href="https://medium.com/@ilasw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ilasw" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools with professional experience:</h3>
 <img src="https://skillicons.dev/icons?i=ts,js,html" />
 <img src="https://skillicons.dev/icons?i=css,sass,tailwind,bootstrap" />
-<img src="https://skillicons.dev/icons?i=angular,vue,nuxtjs,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=angular,vue,nuxtjs,react,redux,nextjs,remix" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress" />
+
+Interested or learning:
+<img src="https://skillicons.dev/icons?i=go,rust" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilasw&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ilasw" /></p>
